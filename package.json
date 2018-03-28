@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "archiver": "^2.1.1",
     "aws-sdk": "^2.215.1",
-    "is-online": "^7.0.0"
+    "desktop-screenshot": "^0.1.1",
+    "is-online": "^7.0.0",
+    "node-zip": "^1.1.1",
+    "screenshot-desktop": "^1.4.2",
+    "zip-folder": "^1.0.0"
   }
 }
